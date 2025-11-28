@@ -3,7 +3,7 @@ Atualmente Pesquisador de Dados e Analista em formação, unindo estatística e 
 
 - 👨🏻‍💻 **Pesquisador de Dados** no Lab. de Virologia Aplicada da [UFMG](https://ufmg.br/)
 - 🚀 **Mentor de Data Science** (Voluntário) no NASA Space Apps Challenge
-- 📊 Especialista em **BI, CRM e Data Storytelling**
+- 📊 Apaixonado por **BI, CRM e Data Storytelling**
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
