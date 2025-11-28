@@ -15,13 +15,13 @@ Atualmente Pesquisador de Dados e Analista em formação, unindo estatística e 
 ##
 
 ### Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI">
+&nbsp;<a href="https://www.linkedin.com/in/gabriel-eduardo">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href="mailto:gabriel95edu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="http://lattes.cnpq.br/382394">
+&nbsp;<a href="http://lattes.cnpq.br/382394](http://lattes.cnpq.br/3823942294621865">
   <img src="https://img.shields.io/badge/Lattes-Curriculo-2F3136?style=for-the-badge&logo=googlescholar&logoColor=white">
 </a>&nbsp;
 
