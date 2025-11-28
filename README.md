@@ -10,6 +10,7 @@ Atualmente Pesquisador de Dados e Analista em formação, unindo estatística e 
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.simpleicons.org/langchain/1C3C3C" />
 </div> 
 
 ##
@@ -21,7 +22,7 @@ Atualmente Pesquisador de Dados e Analista em formação, unindo estatística e 
 &nbsp;<a href="mailto:gabriel95edu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="http://lattes.cnpq.br/382394](http://lattes.cnpq.br/3823942294621865">
+&nbsp;<a href="http://lattes.cnpq.br/3823942294621865">
   <img src="https://img.shields.io/badge/Lattes-Curriculo-2F3136?style=for-the-badge&logo=googlescholar&logoColor=white">
 </a>&nbsp;
 
